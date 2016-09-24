@@ -1,0 +1,11 @@
+{
+  "name": "jrproject",
+  "version": "1.0.0",
+  "description": "prework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jed davis",
+  "license": "ISC"
+}
