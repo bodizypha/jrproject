@@ -35,13 +35,6 @@ ul li:nth-child(odd) {
   background: #f9f9f9;
 }
 
-/* Darker background-color on hover */
-ul li:hover {
-  background: #ddd;
-}
-
-/* When clicked on, add a background color and strike out text */
-
 
 /* Style the close button */
 .close {
