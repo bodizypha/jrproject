@@ -51,7 +51,7 @@ ul li:nth-child(odd) {
 
 /* Style the header */
 .header {
-  background-color: #f44336;
+  background-color: blue;
   padding: 30px 40px;
   color: white;
   text-align: center;
