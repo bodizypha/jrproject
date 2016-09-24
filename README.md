@@ -69,4 +69,4 @@ SQLite was chosen for portability, your script should be able to run anywhere. (
 
 EXPECTATIONS : 
 
-Put in a good effort to complete the requirements above.  Even if you do not finish the full project, please turn in everything you have, and all files so we can look over all of the files.
+Put in a good effort to complete the requirements above.  Even if you do not finish the full project, please turn in everything you have, and all files so we can look over all of the files.# jrproject3
