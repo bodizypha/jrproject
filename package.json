@@ -1,5 +1,5 @@
 {
-  "name": "jrproject",
+  "name": "jrproject3",
   "version": "1.0.0",
   "description": "prework",
   "main": "index.js",
@@ -7,5 +7,13 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "jed davis",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bodizypha/jrproject3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bodizypha/jrproject3/issues"
+  },
+  "homepage": "https://github.com/bodizypha/jrproject3#readme"
 }
